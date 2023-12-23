@@ -19,7 +19,15 @@ This project aims to develop a machine learning model to predict malicious URLs.
 3. Install the required packages
 ``` pip install -r requirements.txt ```
 
+dth
+hdt
+t
+t
+hdf
+
+dfbfg
 ### Usage
+
 Open the Jupyter Notebook and run the cells to train the model and make predictions.
 
 Contributing
