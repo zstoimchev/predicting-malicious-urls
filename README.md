@@ -2,7 +2,7 @@
 
 ## Project Description
 This project aims to develop a machine learning model to predict malicious URLs. The model is trained on a dataset containing both benign and malicious URLs.
-
+<!--
 ## Getting Started
 
 ### Prerequisites
@@ -30,3 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 License
 MIT
+-->
