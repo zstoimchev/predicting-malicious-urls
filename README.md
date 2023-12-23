@@ -11,13 +11,13 @@ This project aims to develop a machine learning model to predict malicious URLs.
 
 ### Installation
 1. Clone the repository
-```git clone https://github.com/zstoimchev/predicting-malicious-urls.git```
+``` bash git clone https://github.com/zstoimchev/predicting-malicious-urls.git```
 
 2. Navigate to the project directory
-```cd predicting-malicious-urls```
+``` bash cd predicting-malicious-urls```
 
 3. Install the required packages
-``` pip install -r requirements.txt ```
+``` bash pip install -r requirements.txt ```
 
 
 
@@ -30,6 +30,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 License
 MIT
-
-
-Remember to replace the placeholders with the actual details of your project. This includes the project description, prerequisites, installation steps, usage instructions, contribution guidelines, and license information.
