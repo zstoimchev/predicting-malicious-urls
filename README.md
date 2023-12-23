@@ -13,12 +13,17 @@ This project aims to develop a machine learning model to predict malicious URLs.
 1. Clone the repository
 ```bash
 git clone https://github.com/zstoimchev/predicting-malicious-urls.git
+```
 
-Navigate to the project directory
+2. Navigate to the project directory
+``` bash
 cd predicting-malicious-urls
+```
 
-Install the required packages
+3. Install the required packages
+``` bash
 pip install -r requirements.txt
+```
 
 Usage
 Open the Jupyter Notebook and run the cells to train the model and make predictions.
